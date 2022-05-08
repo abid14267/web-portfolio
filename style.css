@@ -73,3 +73,28 @@ section{
     border-image: linear-gradient(180deg,blue,cyan);
     border-image-slice: 1;
 }
+#align-ctr{
+    padding-top:10%;
+    text-align:center;
+}
+.latest-projects{
+    background-color: #f4f1f1ee;
+    height: 800px;
+}
+.project{
+    width: 27%;
+    float: left;
+    margin-left: 3%;
+    background-color: white;
+    height: 380px;
+    padding:12px;
+    border-radius:15px;
+    box-shadow: 5px 5px 10px #e1e1e1;
+}
+.project img{
+    width: 100%;
+}
+.section{
+    margin-left: 70px;
+    padding-top: 50px;
+}
